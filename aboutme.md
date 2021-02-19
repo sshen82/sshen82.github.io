@@ -1,16 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My name is Siqi Shen. I am a Ph.D. student working with Prof. Sündüz Keleş. I have a broad range of interests including all sorts of statistical genomics methods, high dimensional statistics, geometric data analysis, and topological data analysis, etc. Right now, I am working on statistical methods for single cell Hi-C data.
