@@ -1,0 +1,10 @@
+---
+layout: post
+title: Summary and Comment on Let's Practice What We Preach: Turning Tables into Graphs
+gh-repo: daattali/beautiful-jekyll
+tags: [BMI881]
+comments: true
+---
+
+This article mainly recommends using graphs instead of tables. It states that "the interest in a statistical paper typically lies in comparisons, not absolute numbers", and "tables are best suited for looking up specific information, and graphs are better for perceiving trends and making comparisons and predictions".
+It provides some principles for data display, and applys them on tables in several articles on Journal of American Statistical Association.
