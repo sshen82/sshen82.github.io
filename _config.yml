@@ -93,7 +93,7 @@ share-links-active:
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "google-site-verification=N9ZYtFvDLJy6xS2nCbpXuejDJh3gBOLE2KXcXyA8O4s"
 
 # Google Tag Manager ID
 #gtm: ""
