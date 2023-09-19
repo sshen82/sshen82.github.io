@@ -18,7 +18,6 @@ title: Siqi Shen
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Gallery: "Gallery"
   Publications: "publication"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
