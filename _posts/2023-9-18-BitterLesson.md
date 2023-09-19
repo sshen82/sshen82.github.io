@@ -6,4 +6,4 @@ tags: [ML]
 comments: true
 ---
 
-http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+Just want to keep a record of the article seen. http://www.incompleteideas.net/IncIdeas/BitterLesson.html
